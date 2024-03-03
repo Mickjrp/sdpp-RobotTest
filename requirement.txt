@@ -1,2 +1,2 @@
-SeleniumLibrary==4.0.0
+robotframework-seleniumlibrary
 robotframework-requests==0.9.1
